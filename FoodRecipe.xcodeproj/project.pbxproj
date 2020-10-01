@@ -54,6 +54,8 @@
 		290F46ED2525E56000805332 /* FoodRecipe */ = {
 			isa = PBXGroup;
 			children = (
+				290F47032525EA5000805332 /* Entity */,
+				290F47022525E85B00805332 /* RemotePlatform */,
 				290F46EE2525E56000805332 /* AppDelegate.swift */,
 				290F46F22525E56000805332 /* ViewController.swift */,
 				290F46F42525E56000805332 /* Main.storyboard */,
@@ -62,6 +64,20 @@
 				290F46FC2525E56400805332 /* Info.plist */,
 			);
 			path = FoodRecipe;
+			sourceTree = "<group>";
+		};
+		290F47022525E85B00805332 /* RemotePlatform */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = RemotePlatform;
+			sourceTree = "<group>";
+		};
+		290F47032525EA5000805332 /* Entity */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Entity;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
