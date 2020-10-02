@@ -6,8 +6,7 @@ target 'FoodRecipe' do
   use_frameworks!
   pod 'RxSwift', '~> 5'
   pod 'RxCocoa', '~> 5'
-  pod 'Swinject'
-  pod 'SwinjectStoryboard'
+  pod 'Contentful', '~> 5.0.0'
   pod 'Kingfisher', '~> 5.0'
   # Pods for FoodRecipe
 
